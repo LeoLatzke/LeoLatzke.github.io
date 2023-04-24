@@ -1,0 +1,31 @@
+<style type="text/css">
+		table {
+			border-collapse: collapse;
+			margin: auto;
+		}
+
+		td {
+			border: 1px solid black;
+			padding: 10px;
+			text-align: center;
+			vertical-align: middle;
+			width: 100px;
+			height: 100px;
+		}
+
+		th {
+			background-color: gray;
+			border: 1px solid black;
+			color: white;
+			padding: 10px;
+			text-align: center;
+		}
+
+		.today {
+			background-color: yellow;
+		}
+
+		.weekend {
+			background-color: lightgray;
+		}
+	</style>

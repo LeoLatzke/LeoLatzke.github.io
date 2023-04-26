@@ -14,7 +14,7 @@
 		}
 
 		th {
-			background-color: rgb(68, 80, 245);
+			background-color: rgb(61, 49, 233);
 			border: 1px solid black;
 			color: white;
 			padding: 10px;
@@ -25,9 +25,33 @@
             font-weight: bold;
 		}
         .end {
-            width:100px;
+            width: 100px;
             min-height:100px;
-            background-color:rgba(255, 0, 0, 0.575);
+            background-color:rgba(255, 0, 76, 0.575);
+            font-weight: bold;
+          }
+          .aula {
+            width: 100px;
+            min-height:100px;
+            background-color:rgba(10, 204, 26, 0.575);
+            font-weight: bold;
+          }
+          .aulaend {
+            width: 100px;
+            min-height:100px;
+            background-color:rgba(230, 91, 11, 0.575);
+            font-weight: bold;
+          }
+          .rep {
+            width: 100px;
+            min-height:100px;
+            background-color:rgba(124, 11, 230, 0.575);
+            font-weight: bold;
+          }
+          .aul {
+            width: 100px;
+            min-height:100px;
+            background-color:rgba(180, 245, 0, 0.692);
             font-weight: bold;
           }
 	</style>
